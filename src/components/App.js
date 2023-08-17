@@ -14,7 +14,7 @@ function App() {
       date: "August 17, 2023",
       preview: "Preview of Article 1...",
     },
-    // Add more articles as needed
+    
   ];
   return (
     <div className="App">
